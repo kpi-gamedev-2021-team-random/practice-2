@@ -1,0 +1,14 @@
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.csproj.AssemblyReference.cache
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.AssemblyInfoInputs.cache
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.AssemblyInfo.cs
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\bin\Debug\netcoreapp3.1\QuaridorConsole.exe
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\bin\Debug\netcoreapp3.1\QuaridorConsole.deps.json
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\bin\Debug\netcoreapp3.1\QuaridorConsole.runtimeconfig.json
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\bin\Debug\netcoreapp3.1\QuaridorConsole.runtimeconfig.dev.json
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\bin\Debug\netcoreapp3.1\QuaridorConsole.dll
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\bin\Debug\netcoreapp3.1\QuaridorConsole.pdb
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.dll
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.pdb
+C:\Users\Servets\source\repos\QuaridorConsole\QuaridorConsole\obj\Debug\netcoreapp3.1\QuaridorConsole.genruntimeconfig.cache
